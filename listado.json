@@ -1,35 +1,38 @@
-{
-    "nombre": "Listado de ejemplo",
-    "listado": [
+ [
         {
-            "nombre": "aaaaa",
-            "apellido": "bbbbb",
-            "fecha": "ccccc",
+            "nombre": "Atilio Garcia",
+            "temporadas": "7",
+            "goles":"330",
+            "fecha": "1914 - 1973"
            
         },
         {
-            "nombre": "fffff",
-            "apellido": "ggggg",
-            "fecha": "hhhhh",
+            "nombre": "Hector Scarone",
+            "temporadas": "9",
+            "goles":"188",
+             "fecha": "1898 - 1967"
         
         },
         {
-            "nombre": "kkkkk",
-            "apellido": "lllll",
-            "fecha": "mmmmm",
+            "nombre": "Angel Romano",
+            "temporadas": "",
+            "goles":"125",
+            "fecha": "1893 - 1972"
             
         },
         {
-            "nombre": "ppppp",
-            "apellido": "qqqqq",
-            "fecha": "rrrrr",
+            "nombre": "Carlos Scarone",
+            "temporadas":"6",
+            "goles": "115",
+            "fecha": "1888 - 1965"
            
         },
         {
-            "nombre": "uuuuu",
-            "apellido": "vvvvv",
-            "fecha": "wwwww",
+            "nombre": "Anibal Ciocca",
+            "temporadas":"8",
+            "goles": "113",
+            "fecha": "1915 - 1981"
+
             
         }
     ]
-}
