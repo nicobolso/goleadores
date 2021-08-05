@@ -1,0 +1,35 @@
+{
+    "nombre": "Listado de ejemplo",
+    "listado": [
+        {
+            "nombre": "aaaaa",
+            "apellido": "bbbbb",
+            "fecha": "ccccc",
+           
+        },
+        {
+            "nombre": "fffff",
+            "apellido": "ggggg",
+            "fecha": "hhhhh",
+        
+        },
+        {
+            "nombre": "kkkkk",
+            "apellido": "lllll",
+            "fecha": "mmmmm",
+            
+        },
+        {
+            "nombre": "ppppp",
+            "apellido": "qqqqq",
+            "fecha": "rrrrr",
+           
+        },
+        {
+            "nombre": "uuuuu",
+            "apellido": "vvvvv",
+            "fecha": "wwwww",
+            
+        }
+    ]
+}
