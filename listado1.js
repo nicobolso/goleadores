@@ -8,7 +8,7 @@ function cargarDatos(url) {
 
 
         .then(listado => {
-            let row = ""
+            let row = "";
             for (let i = 0; i < listado.length; i++) {
                 row =
                     `
@@ -21,7 +21,7 @@ function cargarDatos(url) {
                `
 
                 document.getElementById("data").innerHTML += row
-            }
-            .catch(error => alert("Hubo un error: " + error));
+          })
+          .catch(error => alert("Hubo un error: " + error));
         
  }
