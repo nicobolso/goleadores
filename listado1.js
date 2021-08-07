@@ -13,7 +13,8 @@ function cargarDatos(url) {
                 row =
                     `
                <td>`+ listado[i].nombre + `</td>
-               <td>`+ listado[i].apellido + `</td>
+               <td>`+ listado[i].temporada + `</td>
+               <td>`+ listado[i].goles + `</td>
                <td>`+ listado[i].fechas + `</td>
                
                
