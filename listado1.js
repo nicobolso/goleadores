@@ -21,6 +21,7 @@ function cargarDatos(url) {
                `
 
                 document.getElementById("data").innerHTML += row
-            })
+            }
+            .catch(error => alert("Hubo un error: " + error));
         
  }
