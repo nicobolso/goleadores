@@ -1,4 +1,4 @@
-const goleadores_url = "https://nicobolso.github.io/goleadores/"
+const goleadores_url = "https://nicobolso.github.io/goleadores/listado.json"
 
 function cargarDatos(url) {
     document.getElementById("data").innerHTML = "";
