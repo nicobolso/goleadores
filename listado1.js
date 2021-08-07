@@ -19,5 +19,5 @@ function cargarDatos(url) {
                
                `
 
-                document.getElementById("data").innerHTML += contenido
+                document.getElementById("data").innerHTML += row
             }
