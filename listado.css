@@ -1,7 +1,10 @@
-body{
+.center{
     background-image: url("bolso.gif");
-    size: 50;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
+
+
 .color{
     background-color : white;
     color: red;
