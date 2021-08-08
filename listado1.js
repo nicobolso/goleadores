@@ -23,5 +23,5 @@ function cargarDatos(url) {
                 document.getElementById("data").innerHTML += row
           }
          
-        
+        })   
  }
