@@ -1,4 +1,4 @@
-.center{
+body{
     background-image: url("bolso.gif");
     
 }
@@ -7,4 +7,10 @@
 .color{
     background-color : white;
     color: red;
+}
+button{
+    margin-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    transform: translateX(-50%);
 }
