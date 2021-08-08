@@ -21,3 +21,8 @@ table{
   border: 2px solid #021aeb;
  
 }
+#estilo{
+    background-image: url("Atilio_garcia.gif");
+    background-size: 50px, 130px, auto; 
+    
+}
