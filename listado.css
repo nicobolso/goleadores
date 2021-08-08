@@ -19,8 +19,7 @@ table{
     margin-right: auto;
     border-radius: 27px;
   border: 2px solid #021aeb;
-  border-collapse: collapse;
-  width: 100%;
+  text-align: center
 }
  
 }
