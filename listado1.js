@@ -13,9 +13,9 @@ function cargarDatos(url) {
                 row =
                     `
                <td>`+ listado[i].nombre + `</td>
-               <td>`+ listado[i].temporada + `</td>
+               <td>`+ listado[i].temporadas + `</td>
                <td>`+ listado[i].goles + `</td>
-               <td>`+ listado[i].fechas + `</td>
+               <td>`+ listado[i].fecha + `</td>
                
                
                `
